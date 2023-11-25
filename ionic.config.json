@@ -1,0 +1,7 @@
+{
+  "name": "ArmControl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
